@@ -4,8 +4,8 @@ NPM basics commands to create, install &amp; uninstall node_modules
 ### Creating a new angular app using NPM and Angular CLI.
 
 ```
-  # ng new aoa_client
-  # cd aoa_client
+  # ng new aoa-client
+  # cd aoa-client
   # ng serve --open
 ```
 
